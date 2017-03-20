@@ -1,0 +1,17 @@
+{
+  "name": "update-paypall",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+    "heroku-kafka",
+    "papertrail",
+    "vigil"
+  ],
+  "buildpacks": [
+
+  ]
+}
